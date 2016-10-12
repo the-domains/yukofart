@@ -1,4 +1,3 @@
-layout_spectrum: 0.9985995795025425
 typography_spectrum: 0.12273736086351299
 color:
   brandColors:
@@ -16,6 +15,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.9985995795025425
 analytics:
   google: null
   facebook: null
@@ -37,7 +37,4 @@ favicon: null
 title: Yuko Fukushima
 content: []
 description: Illustration & Digital Painting
-purpose:
-  - type: contact
-    url: 'mailto:m@yukorabb.it'
-    label: Contact me
+purpose: []
