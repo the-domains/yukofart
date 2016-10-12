@@ -1,19 +1,4 @@
-name: Yuko F Art
-favicon: null
-layout_spectrum: 0.9908424555324018
 typography_spectrum: 0.9287902943324298
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,4 +10,30 @@ color:
   lightness: 0.033907052827998996
   saturation: 0.3919792138040066
   rhythmicContrast: 0.18829039251431823
-purpose: []
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9908424555324018
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Yuko Fukushima
+  url: 'http://yukorabb.it'
+  email: m@yukorabb.it
+name: YukosArt
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Yuko Fukushima
+content: []
+description: Illustration & Digital Painting
+purpose:
+  - type: contact
+    url: 'mailto:m@yukorabb.it'
+    label: Contact me
