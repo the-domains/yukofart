@@ -29,6 +29,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About me
+    id: 8da7eef5-3df3-427a-b618-0ff6cffa1017
+    type: content
 favicon: null
 title: Yuko Fukushima
 content: []
